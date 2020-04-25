@@ -1,0 +1,96 @@
+*{
+    font-size: 50px;
+    position: relative;
+    color: black;
+    font-family: sans-serif;
+}
+body{
+    background-color: thistle;
+}
+img{
+    position: absolute;
+    left:60vw;
+    top:60vh;
+}
+.text{
+    margin-top: 5vh;
+    margin-left: 3vw;
+}
+h1{
+    position: absolute;
+    left:66vw;
+    top:78vh;
+    color: orange;
+    font-size: 20px;
+    
+}
+.author{
+    color:white;
+    font-size: 20px; 
+}
+.about{
+    color:white;
+    font-size: 20px; 
+}
+.con{
+    color:white;
+    font-size: 20px; 
+}
+.a2{
+    display:none;
+}
+.ob{
+    color:white;
+    font-size: 20px; 
+}
+.le{
+    color:white;
+    font-size: 20px; 
+}
+.connect{
+    color:white;
+    font-size: 20px; 
+}
+.que{
+    color:white;
+    font-size: 20px; 
+}
+.about2{
+    display:none;
+}
+.con2{
+    display:none;
+}
+.ob2{
+    display:none;
+}
+.co2{
+    display:none;
+}
+.le2{
+    display: none;
+}
+.author:hover .a2{
+    display:inline-block;
+}
+.qu2{
+    display:none;
+}
+.about:hover .about2{
+    display:inline-block;
+}
+.con:hover .con2{
+    display:inline-block;
+}
+.ob:hover .ob2{
+    display:inline-block;
+}
+.le:hover .le2{
+    display:inline-block;
+}
+.connect:hover .co2{
+    display:inline-block;
+}
+.que:hover .qu2{
+    display:inline-block;
+}
